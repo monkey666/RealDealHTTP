@@ -1,1 +1,6 @@
 C:\Users\Master\Desktop\RealDealHTTP\RealDealHTTP\bin\Debug\RealDealHTTP.exe.config
+C:\Users\Master\Desktop\RealDealHTTP\RealDealHTTP\bin\Debug\RealDealHTTP.exe
+C:\Users\Master\Desktop\RealDealHTTP\RealDealHTTP\bin\Debug\RealDealHTTP.pdb
+C:\Users\Master\Desktop\RealDealHTTP\RealDealHTTP\obj\Debug\RealDealHTTP.exe
+C:\Users\Master\Desktop\RealDealHTTP\RealDealHTTP\obj\Debug\RealDealHTTP.pdb
+C:\Users\Master\Desktop\RealDealHTTP\RealDealHTTP\obj\Debug\RealDealHTTP.csprojResolveAssemblyReference.cache
